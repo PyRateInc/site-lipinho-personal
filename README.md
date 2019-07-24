@@ -1,1 +1,1 @@
-# site-lipinho-personal
+# site criado em parceria com Rodrigo Simões
